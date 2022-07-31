@@ -5,4 +5,3 @@ def powerdigitsum(n,p):
     return sum
 
 print(powerdigitsum(2,1000))
-
