@@ -5,6 +5,3 @@ def difference(n):
         sumsquare += (i**2)
         squaresum += i
     return squaresum**2 - sumsquare
-
-
-
