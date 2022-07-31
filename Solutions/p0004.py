@@ -18,5 +18,3 @@ for i in range(lower,upper+1):
             palindrome.append(multiple)
         
 print(max(palindrome))
-
-
